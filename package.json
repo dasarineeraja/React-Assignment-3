@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react-dom": "^19.0.0"
+  },
+  "name": "react-3",
+  "version": "1.0.0",
+  "description": "reactproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasarineeraja/React-Assignment-3.git"
+  },
+  "keywords": [
+    "react",
+    "project"
+  ],
+  "author": "Dasari Neeraja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasarineeraja/React-Assignment-3/issues"
+  },
+  "homepage": "https://github.com/dasarineeraja/React-Assignment-3#readme"
+}
